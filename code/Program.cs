@@ -32,5 +32,3 @@ namespace mazeGeneration
         }
     }
 }
-
-//this is a test
